@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/RiLeGa/Arquitectura-Limpia-ForIt/issues"
   },
-  "homepage": "https://github.com/RiLeGa/Arquitectura-Limpia-ForIt#readme"
+  "homepage": "https://github.com/RiLeGa/Arquitectura-Limpia-ForIt#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
